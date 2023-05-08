@@ -16,3 +16,24 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.castle-imagem{
+    width: 25%;
+}
+
+.descricao{
+    background-image: linear-gradient(#151515, #46b6c5);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.div01{
+    width: 35%;
+}
+
+.titulo02{
+    padding: 24px 0;
+}
