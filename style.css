@@ -49,3 +49,13 @@ body{
 .personagem-div{
     text-align: center;
 }
+
+.titulo04{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.todos-personagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
