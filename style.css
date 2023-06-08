@@ -21,6 +21,7 @@ body{
     margin: 0 16px;
 }
 
+
 .castle-imagem{
     width: 25%;
     padding: 0 24px;
@@ -49,6 +50,10 @@ body{
 
 .titulo03{
     padding: 12px 0;
+}
+
+.personagens{
+    padding: 24px 0;
 }
 
 .imagem-personagem{
