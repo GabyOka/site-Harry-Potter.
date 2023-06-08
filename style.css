@@ -19,7 +19,6 @@ body{
 .cabecalho.itens{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
 }
 
 .castle-imagem{
@@ -41,7 +40,7 @@ body{
 }
 
 .titulo01{
-    width: 180px;
+    width: 240px;
 }
 
 .titulo02{
