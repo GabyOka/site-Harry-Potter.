@@ -41,7 +41,7 @@ body{
 }
 
 .titulo01{
-    width: 140px;
+    width: 180px;
 }
 
 .titulo02{
@@ -54,6 +54,7 @@ body{
 
 .imagem-personagem{
     width: 120px;
+    padding: 24px 0;
 }
 
 .personagem-div{
