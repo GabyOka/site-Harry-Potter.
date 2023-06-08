@@ -24,6 +24,7 @@ body{
 
 .castle-imagem{
     width: 25%;
+    padding: 0 24px;
 }
 
 .descricao{
@@ -36,7 +37,7 @@ body{
 }
 
 .div01{
-    width: 35%;
+    width: 40%;
 }
 
 .titulo02{
