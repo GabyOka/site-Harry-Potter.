@@ -42,8 +42,28 @@ body{
     padding: 24px 0;
 }
 
-.imagem-personagem{
-    width: 120px;
+.imagem-personagem1{
+    width: 240px;
+}
+
+.imagem-personagem2{
+    width: 240px;
+}
+
+.imagem-personagem3{
+    width: 160px;
+}
+
+.imagem-personagem4{
+    width: 160px;
+}
+
+.imagem-personagem5{
+    width: 160px;
+}
+
+.imagem-personagem6{
+    width: 160px;
 }
 
 .personagem-div{
